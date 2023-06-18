@@ -531,6 +531,7 @@ FLOWS = {
         "zerproc",
         "zeversolar",
         "zha",
+        "zkaccess_c3",
         "zwave_js",
         "zwave_me",
     ],

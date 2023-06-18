@@ -6538,6 +6538,12 @@
       "config_flow": false,
       "iot_class": "local_polling"
     },
+    "zkaccess_c3": {
+      "name": "C3 Access Control Panel",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "zodiac": {
       "name": "Zodiac",
       "integration_type": "hub",

@@ -2765,6 +2765,9 @@ zigpy-znp==0.11.1
 # homeassistant.components.zha
 zigpy==0.56.0
 
+# homeassistant.components.zkaccess_c3
+zkaccess_c3==0.0.5
+
 # homeassistant.components.zoneminder
 zm-py==0.5.2
 
